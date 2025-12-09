@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "はぐ",
+  "base_artist": "MIMI",
+  "createdAt": "2025-12-09T12:13:25.562024Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "はぐ",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/01_はぐ_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "はぐ - Hug (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_はぐ_-_Hug_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "はぐ (feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_はぐ_(feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "はぐ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン",
+      "has_synced": true,
+      "path": "select/04_はぐ_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&鏡音レン.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "はぐ (feat. 花里みのり & 桐谷遥 & 桃井愛莉 & 日野森雫 & 鏡音レン)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/05_はぐ_(feat._花里みのり_&_桐谷遥_&_桃井愛莉_&_日野森雫_&_鏡音レン)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "はぐ",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine Len",
+      "has_synced": true,
+      "path": "select/06_はぐ_MORE_MORE_JUMP!_feat._花里みのり&桐谷遥&桃井愛莉&日野森雫&Kagamine_Len.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "はぐ",
+      "artist": "MIMI, 初音ミク, 可不",
+      "has_synced": false,
+      "path": "select/pl_01_はぐ_MIMI,_初音ミク,_可不.txt"
+    }
+  ]
+}
